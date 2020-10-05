@@ -1,0 +1,65 @@
+body,p,div,span,a,td,th,input,li,select { font-family: Arial, Helvetica, sans-serif; }
+body,p,div,span,td,th,input,li,select { font-size: 12px; }
+body,p,div,span,td,th,input,li,select { color: #000000; }
+
+a { color: #004071; }
+hr { height: 1px; border:0px; border-top:1px solid #E5E5E5; clear: both; margin: 0px; padding: 0px;}
+h5 { color: #004071;font-size:14px;}
+
+#formred { margin:0px; padding:0px;}
+#header { height: 134px;  background: no-repeat right; border-bottom: 2px solid #000000; vertical-align: top;}
+#header_home { height: 199px;  background: no-repeat right; border-bottom: 2px solid #000000; vertical-align: top;}
+#header_home .logo { margin: 50px 0px 0px 70px; float: left; }
+#header_home .lang { padding: 50px 0px 15px 15px;}
+#header .logo { margin: 15px 0px 0px 70px; float: left; }
+#header .lang { padding: 15px 0px 15px 15px; margin-left:10px; }
+img { border:0px; }
+.transparent {
+	float: right;
+	padding-top: 37px;
+	padding-right: 20px;
+}
+.transparent_home {
+	float: right;
+	padding-top:38px;
+	padding-right: 20px;
+}
+#r_b { float: right; width:453px; padding-top: 10px; }
+#r_b img { margin-right: 30px; }
+#c_b { margin-right: 252px; padding-top: 10px;}
+.t_grey {color: #999999; }
+#bottom { padding-left: 70px;}
+#bottom * { font-size:11px;}
+
+
+.main {	color: black; font-family: Arial,sans-serif; font-size: 10px; text-decoration: none }
+.man {	color: black; font-weight: bold; font-family: Arial,sans-serif; font-size: 11px; text-decoration: none }
+.man2 {	color: black; font-weight: bold; font-family: Arial,sans-serif; font-size: 11px; text-decoration: none; background-color: green; }
+.man3 {	color: black; font-weight: bold; font-family: Arial,sans-serif; font-size: 11px; text-decoration: none; background-color: red; }
+.phr {	color: #006500; font-family: sans-serif; font-size: 12px; text-decoration: none }
+.gr { color: green; font-family: sans-serif; font-size: 9px; text-decoration: none }
+.menu {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+.menu2 { color: green; font-family: Courier; font-size: 14px; text-decoration: none;  font-weight: bold;}
+.down {	color: black; font-family: sans-serif; font-size: 11px; text-decoration: none; padding-left: 2; padding-right: 2;}
+.dd  { color: black; font-family: Tahoma,Arial,sans-serif; font-size: 10px; text-decoration: none; }
+.dd3 { font-family: Tahoma; font-size: 9px; color: #000000;}
+.dd4  { color: black; font-family: tahoma,Arial,sans-serif; font-size: 11px; text-decoration: none; background-color: #FFC0CB; }
+.dr  { color: blue; font-family: sans-serif; font-size: 11px; text-decoration: none }
+.log { color: black; font-family: sans-serif; font-size: 11px; text-decoration: none }
+.zagl {	color: black; font-family: arial; font-weight:bold; font-size: 12px; text-decoration: none }
+.date {	color: green; font-family: sans-serif; font-size: 11px; text-decoration:  none;}
+.nkor {	color: red; font-family: sans-serif; font-size: 11px; text-decoration:  none;}
+.or1 {	color: black; font-family: tahoma; font-size: 12px; }
+.or2 {	color: black; font-family: tahoma; font-weight: bold; font-size: 12px; }
+.sts {	color: black; font-family: verdana; font-size: 61%; }
+.st2s {	color: black; font-family: verdana; font-size: 75%; }
+.ks { font-family: tahoma; font-size: 60%; color: #666666;}
+.ks1{ font-family: tahoma; font-size: 70%; color: #666699;}
+font.fin1 { font-family: Tahoma; font-size: 14px; font-weight: bold; color: #000000; padding-left: 2; padding-right: 2;}
+font.fin2 { font-family: Tahoma; font-size: 14px; font-weight: bold; color: #006500; padding-left: 2; padding-right: 2;}
+font.fin22 { font-family: Tahoma; font-size: 13px; font-weight: bold; color: #006500; padding-left: 2; padding-right: 2;}
+font.fin25 { font-family: Tahoma; font-size: 12px; color: #0000ff; padding-left: 2; padding-right: 2;}
+font.fin3 { font-family: Tahoma; font-size: 9px; color: #ffffff;}
+font.fin4 { font-family: Tahoma; font-size: 10px; color: #000000;}
+font.fin44 { font-family: Tahoma; font-size: 12px; color: #000000;}
+font.fin5 { font-family: Tahoma; font-size: 13px; color: #006500}
